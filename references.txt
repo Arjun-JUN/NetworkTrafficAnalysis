@@ -1,0 +1,24 @@
+ZABBIX python API:
+https://github.com/zabbix/python-zabbix-utils/blob/main/README.md
+
+
+ZABBIX automation script:
+https://github.com/waffledunker/Automated-Zabbix-Anomaly-Detection/blob/master/automationscript.py
+
+
+ZABBIX meets AI:
+https://assets.zabbix.com/files/events/2024/zabbix_summit_2024/day1/5_Wolfgang_Alper.pdf
+
+Synthetic data using GAN:
+https://arxiv.org/abs/2404.07464
+
+TadGAN:
+https://arxiv.org/abs/2009.07769
+https://github.com/arunppsg/TadGAN
+
+NVIDIA:
+http://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/README.md
+
+CICFlowMeter:
+Gerard Drapper Gil, Arash Habibi Lashkari, Mohammad Mamun, Ali A. Ghorbani, "Characterization of Encrypted and VPN Traffic Using Time-Related Features", In Proceedings of the 2nd International Conference on Information Systems Security and Privacy(ICISSP 2016) , pages 407-414, Rome , Italy
+https://github.com/CanadianInstituteForCybersecurity/CICFlowMeter

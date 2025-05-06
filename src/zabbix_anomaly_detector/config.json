@@ -1,0 +1,21 @@
+{
+    "zabbix_url": "http://localhost/zabbix",
+    "zabbix_user": "",
+    "zabbix_password": "",
+    "host_name": "",
+    "host_id": "",
+    "item_keys": [
+        "system.cpu.load[percpu,avg1]",
+        "system.cpu.util[,idle]",
+        "vm.memory.size[available]",
+        "net.if.in[\"eth0\",dropped]",
+        "net.if.in[\"eth0\",errors]",
+        "net.if.in[\"eth0\"]",
+        "net.if.out[\"eth0\",dropped]",
+        "net.if.out[\"eth0\",errors]",
+        "net.if.out[\"eth0\"]",
+        "vfs.file.contents[\"/sys/class/net/eth0/operstate\"]",
+        "vfs.file.contents[\"/sys/class/net/eth0/speed\"]",
+        "vfs.file.contents[\"/sys/class/net/eth0/type\"]"
+        ]
+  }
